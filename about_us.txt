@@ -1,0 +1,5 @@
+ABOUT US
+
+This is the about us page. You can play tic-tak-toe with computer or with your friend. This app is designed by Pritama Biswas
+
+Mental support was provided by Harshit Sharma.
